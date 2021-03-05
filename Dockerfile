@@ -1,7 +1,7 @@
 FROM node:12
 
-LABEL maintainer "Davenchy <firon1222@gmail.com>"
-LABEL description "Build Live-Torrent server image"
+LABEL maintainer "AdoNBS <ado@salkic.me>"
+LABEL description "Build Filmovi-sa-prevodom-Online server image"
 LABEL version "3.0"
 
 WORKDIR /usr/src/app
