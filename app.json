@@ -1,8 +1,8 @@
 {
-  "name": "Live Torrent",
+  "name": "Filmovi sa Prevodom Online",
   "description": "Search, explore, serve and download torrent files and watch online YTS torrent movies with subtitles",
-  "repository": "https://github.com/Davenchy/live-torrent",
-  "logo": "https://github.com/Davenchy/live-torrent/raw/master/public/img/logo.png",
+  "repository": "https://github.com/AdoNBS/live-torrent",
+  "logo": "https://github.com/AdoNBS/live-torrent/raw/master/public/img/logo.png",
   "keywords": [
     "frontend",
     "live-torrent",
@@ -25,6 +25,6 @@
       "value": "TemporaryUserAgent"
     }
   },
-  "image": "davenchy/live-torrent",
+  "image": "adonbs/live-torrent",
   "success_url": "/"
 }
